@@ -1,0 +1,2 @@
+# bert-classification-test
+Transformerを使った日本語テキストのクラス分類のテスト
